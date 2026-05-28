@@ -25,6 +25,7 @@ CEO  ← you are here
       ├── Event Coordinator Agent
       ├── Follow-Up Agent
       ├── Recruiting Pipeline Agent
+      ├── Recruit Onboarding Agent
       ├── Performance Agent
       ├── Licensing Agent
       ├── Metrics Agent
