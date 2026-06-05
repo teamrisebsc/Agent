@@ -27,6 +27,17 @@ CSV columns: No, Name, Email, Code, Level, Contact, Recruiter, StartDate, Notes,
 - **Promotion levels:** SA → TA → A → MD → EMD and up
 - **Superteams:** Legacy Builders (Alarcon), Elevation (Kander), Raging Success (Rhonda), Alpha (Corey/Toni), Innovate (Cathy L), Phoenix (Odalys/KayCee), Omega (Cortez), FFG (Michele/Dana), Ignite (Julie), Freedom (Kari), Praise (Kaili), Direct (Olivia)
 
+## myWFG Points — Flanking Rule (Affects Pipeline Strategy)
+
+Applies to levels 01–17:
+
+- **Flanked = two agents in the same downline line who share the same promotion level.** Example: Rhonda (MD) and Phyllis (MD) in the same line → flanked.
+- **Same-level downline points are NOT credited** to the upline for WFG online, the Leader's Bulletin, or points-based contests
+- **Points follow commissions** — no commission override = no points credit for that business
+- **1-year window exception** — if a downline makes SMD *before* their upline, the upline can count that leg's points toward their own promotion for **1 year only** from that SMD date
+
+**Pipeline implication:** When a high-performing recruit is close to SMD, the team's upline leaders (Olivia & Tracy) should be simultaneously pushing their own rank advancement — because once that recruit crosses to SMD, a 1-year clock starts. Helping leaders build fast is good; let that urgency also drive upline rank progress.
+
 ## How to Help
 
 **BPM follow-up:**

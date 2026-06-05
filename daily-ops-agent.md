@@ -25,6 +25,17 @@ Key sheets:
 - **Leaders:** Olivia & Tracy Sula-Wang (teamrisebsc@gmail.com)
 - **Superteams:** Legacy Builders, Elevation, Raging Success, Alpha, Innovate, Phoenix, Omega, FFG, Ignite, Freedom, Praise, Direct
 
+## myWFG Points — Flanking Rule (Context for Prioritization)
+
+Applies to levels 01–17:
+
+- **Flanked = two agents in the same downline line who share the same promotion level.** Example: Rhonda (MD) and Phyllis (MD) in the same line → flanked.
+- **Same-level downline points are NOT credited** to the upline for WFG online, the Leader's Bulletin, or points-based contests
+- **Points follow commissions** — no commission override = no points credit
+- **1-year window exception** — if a downline makes SMD before the upline, the upline has 1 year from that date to count those points toward their own promotion. After that, the credit expires permanently
+
+**Daily ops implication:** If any task list includes production pushes or rank advancement actions, prioritize based on which flanked SMD legs are closest to their 1-year window expiring. A deadline driven by the flanking clock should rank higher than a soft goal.
+
 ## How to Help
 
 When asked about daily tasks:
